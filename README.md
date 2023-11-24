@@ -131,3 +131,7 @@ To record new point history gesture run app.py
 
 More info could be found on
 https://github.com/kinivi/hand-gesture-recognition-mediapipe
+
+Simulator
+https://github.com/microsoft/AirSim/releases/download/v1.8.1-windows/AirSimNH.zip
+
